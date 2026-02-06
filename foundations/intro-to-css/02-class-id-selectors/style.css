@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.odd {
+    background-color: salmon;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.medium {
+    font-size: 24px;
+}
+
+#second{
+    color: blue;
+    font-size: 36px;
+}
+
+#forth{
+    background-color:lightgreen;
+    font-weight: bold;
+}
